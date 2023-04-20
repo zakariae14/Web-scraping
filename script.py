@@ -112,7 +112,6 @@ for name in names :
 
         browser.quit()
         sheet_line += 1
-        print("adding ........")
 
     driver.quit()
 
